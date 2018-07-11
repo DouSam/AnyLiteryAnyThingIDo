@@ -22,7 +22,7 @@ country = raw_input("Input a country:")
 dessert = raw_input("Input a dessert:")
 year = raw_input("Input a year:")
 print(STORY) % (name, adj1, adj2, animal, food, verb, noun1, fruit, adj3, name, superhero, name, country, name, dessert, name, year, noun2 )
-
+raw_input("Press enter to exit...")
 
 
 
