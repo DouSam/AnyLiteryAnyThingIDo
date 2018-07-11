@@ -16,3 +16,4 @@ new_word = word + first + pyg;
 new_word = new_word[1:len(new_word)];
 #Mostrando a palavra final.
 print(new_word);
+raw_input("Press enter to exit...")
