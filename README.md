@@ -1,8 +1,9 @@
 # AnyLiteryAnyThingIDo
-Tudo que eu fiz está aqui, salvo. Com menos os projetos próprios, esses tem seus próprios directorios.
-Existem diversos projetos, que você pode ou não usar para aprender ou aprimorar seu programa.
 
-Para testar os programas, você pode baixar o Visual Code e já ter pré instalado todos os ide.
-##### Visual Code:https://code.visualstudio.com/
-##### Python Ide:https://www.python.org/downloads/
- 
+Nesse repositório estão salvos alguns "programinhas" que criei durante vários cursos, basicamente meu contato inicial com programação.
+
+Os arquivos que estão em lua, são scripts para serem executados no computer craft(sim, é um mod do minecraft).
+
+Esse repositório não tem de muita servetia, apenas para que eu possa ter o que comparar quando iniciei na programação com os sistemas e projetos que desenvolvo agora.
+
+[Read in English](https://github.com/DouSam/AnyLiteryAnyThingIDo/edit/master/README.us.md)
